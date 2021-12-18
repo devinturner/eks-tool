@@ -1,5 +1,7 @@
 # eks-tool
 
+[![Go](https://github.com/devinturner/eks-tool/actions/workflows/go.yml/badge.svg)](https://github.com/devinturner/eks-tool/actions/workflows/go.yml)
+
 A quick and dirty tool to list out all EKS clusters with active nodegroups in all regions in json format.
 
 The scheme is as follows:
